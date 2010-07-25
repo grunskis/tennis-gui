@@ -6,7 +6,7 @@ To use tennis app you will need:
 * Two buttons with connected wires
 * Some kind of PC with USB port, keyboard & monitor
 
-My current setup shown here in [wiki](http://wiki.github.com/grunskis/tennis)
+My current setup shown here in [wiki](http://wiki.github.com/grunskis/tennis-controller)
 
 # Controls
 
